@@ -1,0 +1,10 @@
+node_modules
+dist
+server
+tmp
+.git
+.gitignore
+.vscode
+Dockerfile
+.dockerignore
+README.md
